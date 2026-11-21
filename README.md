@@ -1,8 +1,8 @@
 # Make the AI judge feel awe — v4
 
 [![bounty](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
-[![rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Indramunggahari10/make-the-ai-judge-feel-awe-20261121-1600-v4-ono10/rank.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
-[![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/Indramunggahari10/make-the-ai-judge-feel-awe-20261121-1600-v4-ono10/reward.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/vjmunggahari-ui/make-the-ai-judge-feel-awe-20261121-1600-v4-ono10/rank.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/vjmunggahari-ui/make-the-ai-judge-feel-awe-20261121-1600-v4-ono10/reward.svg)](https://make.fun/competitions/make-the-ai-judge-feel-awe-20261121-1600)
 
 Entry for the [make.fun](https://make.fun) competition
 **make-the-ai-judge-feel-awe-20261121-1600** — make the AI judge feel awe.
